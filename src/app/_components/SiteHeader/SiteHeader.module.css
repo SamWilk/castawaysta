@@ -9,9 +9,15 @@
 }
 
 .brand {
-  font-size: 1.05rem;
-  font-weight: 800;
-  letter-spacing: 0.02em;
+  display: inline-flex;
+  align-items: center;
+  flex: 0 0 auto;
+}
+
+.brand img {
+  width: 168px;
+  height: auto;
+  display: block;
 }
 
 .navLinks {
@@ -83,7 +89,11 @@
 
 @media (max-width: 380px) {
   .brand {
-    font-size: 1rem;
+    width: 100%;
+  }
+
+  .brand img {
+    width: 150px;
   }
 
   .navLinks {

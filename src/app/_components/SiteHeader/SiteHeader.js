@@ -1,11 +1,18 @@
 import Link from "next/link";
+import Image from "next/image";
 import styles from "./SiteHeader.module.css";
 
 export default function SiteHeader({ variant = "light" }) {
   return (
     <header className={`${styles.header} ${styles[variant]}`}>
       <Link className={styles.brand} href="/" aria-label="Castaway STA home">
-        Castaway STA
+        <Image
+          src="/castaway-logo.png"
+          alt="Castaway STA"
+          width={208}
+          height={81}
+          priority
+        />
       </Link>
       <nav className={styles.navLinks} aria-label="Main navigation">
         <Link href="/#captain">Captain</Link>

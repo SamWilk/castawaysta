@@ -6,6 +6,7 @@ export const metadata = {
     "Castaway STA offers St. Augustine fishing charters with Captain Joe Driscoll for redfish, snapper, kingfish, cobia, grouper, and more.",
   icons: {
     icon: "/site-icon.svg",
+    apple: "/site-icon.svg",
   },
   keywords: [
     "Castaway STA",

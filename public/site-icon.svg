@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Castaway STA icon">
-  <rect width="64" height="64" rx="12" fill="#10232c"/>
-  <path d="M12 42c7 5 17 7 28 5 7-1 11-4 14-8-4-5-9-8-15-9-10-2-20 2-27 12z" fill="#ffd166"/>
-  <path d="M45 31l9-7v15z" fill="#ffd166"/>
-  <circle cx="40" cy="37" r="2.6" fill="#10232c"/>
-  <path d="M10 50c9-3 15-3 24 0 8 3 14 3 21 0" fill="none" stroke="#58b7b0" stroke-width="4" stroke-linecap="round"/>
+  <path d="M50.5 8.5c-7.8 3.1-15.1 9.4-21.7 18.8-5.2 7.5-8 14-8.3 19.5-.2 4.3 1.8 7 5.8 7.9 4.1.9 8.8-.7 14.1-4.9" fill="none" stroke="#10232c" stroke-width="8" stroke-linecap="round"/>
+  <path d="M50.5 8.5c-7.8 3.1-15.1 9.4-21.7 18.8-5.2 7.5-8 14-8.3 19.5-.2 4.3 1.8 7 5.8 7.9 4.1.9 8.8-.7 14.1-4.9" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <path d="M17 28c5-6.2 12.8-10.6 23.4-13.2" fill="none" stroke="#ffd166" stroke-width="5" stroke-linecap="round"/>
+  <path d="M45 14l9-7-2 12" fill="none" stroke="#10232c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M45 14l9-7-2 12" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M11 48c8-2.8 14.3-2.6 22 0 7.1 2.4 13.2 2.4 20 0" fill="none" stroke="#58b7b0" stroke-width="4" stroke-linecap="round"/>
 </svg>
